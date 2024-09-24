@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello! I'm Atta Fall
 
-<!--
-**atta409/atta409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About me:
+- 🎓 I am a third-year Computer Science student, specializing in Software Engineering.
+- 💻 I am proficient in several programming languages, including **PHP**, **Java**, **CSS**, **C++**, and **XML**.
+- 🚀 Passionate about software development and emerging technologies, I regularly work on academic and personal projects.
+- 🌱 I am currently improving my skills in **Docker** and **Git** for project management and deployment.
 
-Here are some ideas to get you started:
+### 💻 Technical Skills:
+- **Languages**: PHP, Java, CSS, C++, XML
+- **Tools and Technologies**: Git, Docker, Composer
+- **Operating Systems**: Linux, Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Recent Projects:
+- 🔗 [drupal-on-frankenphp]: Drupal-on-FrankenPHP is a project that integrates Drupal with FrankenPHP, a modern and efficient web server for running PHP applications, especially with Docker. This project offers a ready-to-use solution for developing and hosting Drupal sites using Docker and FrankenPHP technologies.
+- 🔗 [article]: How to install Drupal 10 in a Docker container with FrankenPHP.
+
+### 📫 Contact me:
+- **Email**: atta.fall@applize.io
+- **LinkedIn**: Atta Fall
+
+### 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atta409&show_icons=true&theme=radical)
+
